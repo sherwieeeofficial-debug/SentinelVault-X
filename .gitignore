@@ -1,0 +1,17 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# React
+frontend/dashboard/node_modules/
+frontend/dashboard/dist/
+
+# Uploaded files
+backend/uploaded_files/
+
+# Environment files
+.env
+
+# Mac
+.DS_Store
