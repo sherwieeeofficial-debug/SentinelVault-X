@@ -113,21 +113,6 @@ SentinelVault-X
 
 ---
 
-# 📸 Screenshots
-
-## Security Dashboard
-
-> *(Add your dashboard screenshot here)*
-
-## API Documentation
-
-> *(Add your Swagger UI screenshot here)*
-
-## GitHub Repository
-
-> *(Add your GitHub repository screenshot here)*
-
----
 
 # ⚙️ Installation
 
@@ -226,11 +211,6 @@ https://github.com/sherwieeeofficial-debug
 
 ---
 
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
----
 
 # 📄 License
 
