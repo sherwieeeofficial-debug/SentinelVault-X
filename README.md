@@ -48,8 +48,3 @@ Malware Scanning
 Real-Time Threat Alerts
 Cloud Deployment
 SIEM Integration
-Advanced Security Analytics
-🔗 GitHub Repository:
-https://github.com/sherwieeeofficial-debug/SentinelVault-X
-I welcome constructive feedback and suggestions from the cybersecurity community as I continue improving this project.
-#CyberSecurity #Python #FastAPI #React #SOC #InformationSecurity #FullStackDevelopment #GitHub #OpenSource #LearningInPublic #StudentDeveloper #SoftwareEngineering
